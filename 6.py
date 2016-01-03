@@ -2,9 +2,8 @@
 import urllib, urllib2, cookielib, re
  
 # 账号相关参数
-username = '1060460048@qq.com'
-#password = '112752zjy'
-password = '0e0d25f9ad21e0eae09e2814736c2907'
+username = '修改成你自己一品威客上的用户名'
+password = '修改成你自己一品威客上的密码'
 login_type = 3
 ckb_cookie = 0
 hdn_refer = 'http://www.epweike.com/index.php'
